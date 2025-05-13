@@ -1,9 +1,9 @@
-[![Header](https://github.com/Alexuqe/Alexuqe/blob/main/assets/banner-for-ios-developer-profile--in-the-middle-is.png)](https://github.com/Alexuqe)
+[![Header](https://github.com/Alexuqe/Alexuqe/blob/main/assets/Asset%2030.png)](https://github.com/Alexuqe)
 
 ## About Me
 My name is Alex, and I'm an iOS developer passionate about creating high-quality mobile applications. I enjoy writing clean code, implementing modern technologies, and enhancing user experiences.
 
-## 🚀 Projects & Libraries  
+## Projects & Libraries  
 [![Pinned Repository 1](https://img.shields.io/badge/Packages-SideMenuKit-green)](https://github.com/Alexuqe/SideMenuKit)  
 [![Pinned Repository 2](https://img.shields.io/badge/Projects-Align2D-blue)](https://github.com/Alexuqe/Align2D) 
 [![Pinned Repository 3](https://img.shields.io/badge/TodoList-blue)](https://github.com/Alexuqe/ToDoList)
