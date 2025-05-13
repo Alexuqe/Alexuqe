@@ -39,7 +39,7 @@ My name is Alex, and I'm an iOS developer passionate about creating high-quality
 - **Cloud Technologies**: Firebase
   
 ## Contacts
-![Telegram](https://img.shields.io/badge/Telegram-EDEDED?style=flat-square&logo=telegram&logoColor=FFFFFF(https://t.me/HORDIAH))
-![Gmail](https://img.shields.io/badge/Gmail-EDEDED?style=flat-square&logo=gmail&logoColor=FFFFFF(hordiah1@gmail.com))
-![Yandex](https://img.shields.io/badge/Yandex-FFD04D?style=flat-square(hordiah1@gmail.com))
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square([hordiah1@gmail.com](https://www.linkedin.com/in/alexandr-galushko-11745b300/)))
+[![Telegram](https://img.shields.io/badge/Telegram-EDEDED?style=flat-square&logo=telegram&logoColor=29A0DC)](https://t.me/HORDIAH)
+[![Gmail](https://img.shields.io/badge/Gmail-EDEDED?style=flat-square&logo=gmail&logoColor=F23C34)](hordiah1@gmail.com)
+[![Yandex](https://img.shields.io/badge/Yandex-FFD04D?style=flat-square)](hordiah@yandex.by)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/alexandr-galushko-11745b300/)
