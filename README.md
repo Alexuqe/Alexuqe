@@ -1,6 +1,6 @@
 [![Header](https://github.com/Alexuqe/Alexuqe/blob/main/assets/banner-for-ios-developer-profile--in-the-middle-is.png)](https://github.com/Alexuqe)
 
-## 👋 About Me  
+## About Me
 My name is Alex, and I'm an iOS developer passionate about creating high-quality mobile applications. I enjoy writing clean code, implementing modern technologies, and enhancing user experiences.
 
 ## 🚀 Projects & Libraries  
@@ -10,7 +10,7 @@ My name is Alex, and I'm an iOS developer passionate about creating high-quality
 [![Pinned Repository 3](https://img.shields.io/badge/BrainBoost-blue)](https://github.com/Alexuqe/BrainBoost)     
 [![Pinned Repository 3](https://img.shields.io/badge/Contributor-DeliveryApp-yellow)](https://github.com/trambalda/iaw1)
 
-## 🛠️ Languages & Tech Stack 
+## Languages & Tech Stack 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=FFFFFF)
 ![UIkit](https://img.shields.io/badge/UIkit-7F7F7F?style=plastic)
 ![MVVM](https://img.shields.io/badge/MVVM-7F7F7F?style=plastic)
@@ -29,12 +29,17 @@ My name is Alex, and I'm an iOS developer passionate about creating high-quality
 ![Async/Await](https://img.shields.io/badge/Async/Await-7F7F7F?style=plastic)
 ![Firebase](https://img.shields.io/badge/Firebase-7F7F7F?style=plastic)
 
-- **Languages**: Swift, Objective-C  
-- **Frameworks**: SwiftUI, UIKit, Combine, Core Data, Core Animation, AVFoundation  
+- **Languages**: Swift 
+- **Frameworks**: UIKit, Core Data, Core Animation, AVFoundation  
 - **Architecture**: MVVM, VIPER, Clean Architecture   
 - **CI/CD**: GitHub  
 - **Networking**: URLSession, Alamofire 
-- **Data Storage**: UserDefaults, Keychain, SQLite, Realm  
+- **Data Storage**: UserDefaults, Keychain, Realm  
 - **Asynchronous Programming**: GCD, Operations, Async/Await  
-- **Security**: Secure Enclave, Biometrics, ATS  
-- **Cloud Technologies**: Firebase, AWS, CloudKit  
+- **Cloud Technologies**: Firebase
+  
+## Contacts
+![Telegram](https://img.shields.io/badge/Telegram-EDEDED?style=flat-square&logo=telegram&logoColor=FFFFFF(https://t.me/HORDIAH))
+![Gmail](https://img.shields.io/badge/Gmail-EDEDED?style=flat-square&logo=gmail&logoColor=FFFFFF(hordiah1@gmail.com))
+![Yandex](https://img.shields.io/badge/Yandex-FFD04D?style=flat-square(hordiah1@gmail.com))
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square([hordiah1@gmail.com](https://www.linkedin.com/in/alexandr-galushko-11745b300/)))
